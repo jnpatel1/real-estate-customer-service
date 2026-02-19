@@ -1,0 +1,8 @@
+{
+"results": [
+{
+"toolCallld": "{{1.message.toolCalls[].id}}",
+"result": "It seems this time is unavailable, there is another open slot for {{8.result}}. Does that work for you?"
+}
+]
+}

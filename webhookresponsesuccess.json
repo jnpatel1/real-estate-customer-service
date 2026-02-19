@@ -1,0 +1,8 @@
+{
+"results": [
+{
+"toolCallId": "{{1.message.toolCalls[].id}}",
+"result": "I've booked you in for a demo! Looking forward to speaking with you."
+}
+]
+}
