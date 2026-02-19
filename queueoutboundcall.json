@@ -1,9 +1,0 @@
-{
-  "name": "{{1.`8`}}",
-  "assistantId": "{{4.assistantId}}",
-  "phoneNumberId": "{{4.phoneNumberId}}",
-  "customer": {
-    "number": "{{4.prospectPhoneNumber}}",
-    "numberE164CheckEnabled": true
-  }
-}
